@@ -1,0 +1,15 @@
+/*
+!.github
+!.prettierrc
+!.vscode
+!CHANGELOG.md
+!CODE_OF_CONDUCT.md
+!CONTRIBUTING.md
+!docs
+!example
+!LICENSE
+!package.json
+!package-lock.json
+!README.md
+!src
+!tsconfig*.json
